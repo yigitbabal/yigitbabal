@@ -4,7 +4,7 @@ I am a PhD candidate at Gebze Technical University, Turkey as a member of Molecu
 
 ### Connect with me:
 
-[<img align="left" alt="yigitbabal.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://yigitbabal.xyz/)
+[<img align="left" alt="yigitbabal.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://yigitbabal.github.io/)
 [<img align="left" alt="BabalKoray | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/BabalKoray)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yigit-koray-babal-b76317137/)
 <br />
