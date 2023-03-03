@@ -1,6 +1,6 @@
 # Yigit Koray Babal
 
-I am a PhD candidate at Gebze Technical University, Turkey as a member of Molecular Neurobiology Laboratory, AxanLab. I completed my MSc (Molecular Biology and Genetics) at the Gebze Technical University and BSc (Biology) at the Marmara University, Turkey. 
+I PhD degree in computational neurobiology field from Gebze Technical University, Turkey as a member of Molecular Neurobiology Laboratory, AxanLab. I completed my MSc (Molecular Biology and Genetics) at the Gebze Technical University and BSc (Biology) at the Marmara University, Turkey. 
 
 ### Connect with me:
 
