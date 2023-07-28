@@ -1,6 +1,6 @@
 # Yigit Koray Babal
 
-I have a PhD degree in computational neurobiology field from Gebze Technical University, Turkey as a member of Molecular Neurobiology Laboratory, AxanLab. I completed my MSc (Molecular Biology and Genetics) at the Gebze Technical University and BSc (Biology) at the Marmara University, Turkey. 
+I am a postdoctoral scholar at Karolinska Institutet focusing on the development and use of computational approaches in the neurobiology field. My research focus is gene regulation of nervous system development and neurodegenerative diseases especially using evolutionary aspects. To understand nervous system, I mainly use multi-omic data analysis techniques such as scRNAseq, scATACseq, and ChIPseq by extensively usage of Linux (HPC clusters and bash scripting), R, and Python. I am also Linux enthusiastic and interested in web development. On the other hands, I am also interested in philosophy of scince.
 
 ### Connect with me:
 
