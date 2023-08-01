@@ -1,6 +1,6 @@
 # Yigit Koray Babal
 
-I am a postdoctoral scholar at Karolinska Institutet focusing on the development and use of computational approaches in the neurobiology field. My research focus is gene regulation of nervous system development and neurodegenerative diseases especially using evolutionary aspects. To understand nervous system, I mainly use multi-omic data analysis techniques such as scRNAseq, scATACseq, and ChIPseq by extensively usage of Linux (HPC clusters and bash scripting), R, and Python. I am also Linux enthusiastic and interested in web development. On the other hands, I am also interested in philosophy of scince.
+I am a postdoctoral scholar at Karolinska Institutet focusing on the development and use of computational approaches in the neurobiology field. My research focus is gene regulation of nervous system development and neurodegenerative diseases especially using evolutionary aspects. To understand nervous system, I mainly use multi-omic data analysis techniques such as scRNAseq, scATACseq, and ChIPseq by extensively usage of Linux (HPC clusters and bash scripting), R, and Python. I am also Linux enthusiastic and interested in web development. On the other hands, I am also interested in philosophy of science.
 
 ### Connect with me:
 
